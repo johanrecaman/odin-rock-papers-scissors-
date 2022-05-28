@@ -33,7 +33,7 @@ switch(player_move){
             console.log('You won! The bot chose Paper!');
         }
         else {
-            console.log('Draw! caralho The bot chose Scissors!');
+            console.log('Draw! The bot chose Scissors!');
         }
         break;
     default:
