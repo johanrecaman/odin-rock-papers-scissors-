@@ -1,7 +1,7 @@
 <h1 align="center">Odin Rock Paper Scissors</h1>
 
+<p align="center">This app is on V1.0 | Still missing some UI</p>
 <p align="center">This is a web project made with HTML and CSS for studying purposes</p>
-<p align="center">This app is on V0.1</p>
 
 ### Tools
 
